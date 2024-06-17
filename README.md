@@ -12,7 +12,7 @@ This project is a Java application developed to fetch and display employee detai
 
 1. Clone the repository:
    ```
-   git clone https://github.com/riteshraj140104/employee-data-fetch-java.git
+   git clone https://github.com/raj140104/employee-data-fetch-java.git
    ```
    
 2. Open the project in your preferred Java IDE.
